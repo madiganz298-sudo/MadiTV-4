@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="8dp"
+    android:paddingVertical="4dp">
+
+    <TextView
+        android:id="@+id/tvGroupName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_group_item"
+        android:gravity="center"
+        android:paddingVertical="12dp"
+        android:text="ALL"
+        android:textColor="@color/text_color_group_item"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:textAllCaps="true" />
+</FrameLayout>

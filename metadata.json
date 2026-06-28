@@ -1,0 +1,6 @@
+{
+  "name": "M4DiTV",
+  "description": "Premium IPTV Player by M4DI~UciH4",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

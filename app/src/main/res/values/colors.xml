@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#0A0E13</color>
+    <color name="surface_dark">#141A21</color>
+    <color name="accent_gold">#D4AF37</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B8C1</color>
+    
+    <!-- Primary branding color for material components -->
+    <color name="colorPrimary">#D4AF37</color>
+    <color name="colorPrimaryDark">#0A0E13</color>
+    <color name="colorAccent">#D4AF37</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#F44336</color>
+    
+    <!-- Leanback TV colors -->
+    <color name="tv_background">#0A0E13</color>
+    <color name="tv_search_color">#D4AF37</color>
+    <color name="tv_brand_color">#141A21</color>
+</resources>
